@@ -6,10 +6,3 @@ numpy
 openpyxl
 xlsxwriter
 python-dateutil
-io
-json
-datetime
-Path
-os
-uuid
-base64
